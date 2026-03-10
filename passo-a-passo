@@ -1,0 +1,25 @@
+Preparação (só uma vez)
+1. Instalar o Node.js — nodejs.org → Windows Installer (.msi) → Next, Next, Install
+2. Instalar o VS Code — code.visualstudio.com → baixa e instala normalmente
+3. Criar uma pasta no computador ex: C:\bot-whatsapp
+4. Salvar o arquivo whatsapp-bot.js dentro dessa pasta
+5. Abrir a pasta no VS Code — botão direito na pasta → Abrir com VS Code
+6. Abrir o terminal — pressione Ctrl + `
+7. Instalar as dependências — digite no terminal:
+bashnpm install whatsapp-web.js qrcode-terminal
+Aguarda uns 2 minutos baixando...
+8. Adicionar os contatos no código — abre o whatsapp-bot.js e coloca os números na lista contatos[]
+9. Completar o texto do convite no código
+
+🚀 Rodar o bot (todo dia)
+1. Abre a pasta no VS Code
+2. Abre o terminal Ctrl + `
+3. Digita:
+
+bashnode whatsapp-bot.js
+
+4. Escaneia o QR Code com o WhatsApp
+
+Abre o WhatsApp → ⋮ → Aparelhos conectados → Conectar aparelho
+
+5. Deixa o PC ligado por ~2h30 ☕
