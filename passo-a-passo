@@ -6,7 +6,9 @@ Preparação (só uma vez)
 5. Abrir a pasta no VS Code — botão direito na pasta → Abrir com VS Code
 6. Abrir o terminal — pressione Ctrl + `
 7. Instalar as dependências — digite no terminal:
-bashnpm install whatsapp-web.js qrcode-terminal
+
+ install whatsapp-web.js qrcode-terminal
+ 
 Aguarda uns 2 minutos baixando...
 8. Adicionar os contatos no código — abre o whatsapp-bot.js e coloca os números na lista contatos[]
 9. Completar o texto do convite no código
@@ -16,7 +18,7 @@ Aguarda uns 2 minutos baixando...
 2. Abre o terminal Ctrl + `
 3. Digita:
 
-bashnode whatsapp-bot.js
+node whatsapp-bot.js
 
 4. Escaneia o QR Code com o WhatsApp
 
