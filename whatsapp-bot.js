@@ -39,8 +39,7 @@ const CONFIG = {
 //  Formato: "5511999999999" (55 = Brasil + DDD + número)
 // ════════════════════════════════════════════
 const contatos = [
-  "número aqui",
-  "número aqui",
+  "559999999999",
   // ... adicione seus contatos aqui
 ];
 
