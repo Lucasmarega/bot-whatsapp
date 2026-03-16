@@ -84,25 +84,7 @@ function getMensagem() {
   //   → Se rodar à tarde  : "Boa tarde, meu nome é Lucas eu gostaria de te convidar para um evento..."
   //   → Se rodar à noite  : "Boa noite, meu nome é Lucas eu gostaria de te convidar para um evento..."
   // -----------------------------------------------------------
-  return `${saudacao} Aqui é o Lucas da Fiat Viviani! 🚨 FIAT DAY chegando! 🚗🔥
-
-Eu gostaria de te fazer um convite para o evento que ocorrerá no dia 21/03, sábado, das 9h até 15h aqui na Fiat Viviani.
-
-Estamos com um evento especial e por tempo limitado com condições que não aparecem no dia a dia:
-
-✅ Taxa 0% em vários modelos Fiat
-✅ Planos de pagamento facilitados
-✅ Seminovos com IPVA 2026 totalmente quitado
-✅ Ofertas exclusivas válidas apenas no FIAT DAY
-
-É a chance perfeita para trocar de carro fazendo um excelente negócio.
-
-Se você já tem algum modelo em mente, me fala qual é que eu verifico a disponibilidade e já deixo uma condição reservada para você no evento.
-
-Mas preciso ver antes que as melhores ofertas acabem. Qual carro você está pensando? 🚗
-
-Att, Lucas - Fiat Viviani 😊
-
+  return `${saudacao} [seu texto aqui]
 ${variacao}`;
   // -----------------------------------------------------------
 }
